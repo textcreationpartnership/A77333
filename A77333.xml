@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands selected characters, describing the good and bad worthies of this age. VVhere the best may see their graces, and the worst discerne their basenesse. The particulars be these, 1 A worthy king. 2 An unworthy king. 3 A worthy queen. 4 An unworthy woman. 5 A worthy prince. 6 An unworthy prince. 7 A worthy Privy counsellour. 8. An unworthy Privy counsellour. 9 A worthy noble-man. 10 An unworthy noble-man. 11 A worthy bishop or minister. 12 An unworthy bishop or minister. 13 A worthy judge. 14 An unworthy judge. 15 A worthy knight &amp; souldier. 16 An unworthy knight &amp; souldier. 17 A worthy gentleman. 18 An unworthy gentleman. 19 A worthy lawyer. 20 An unworthy lawyer. 21 A worthy souldier. 22 An untrained souldier. 23 A worthy physitian. 24 An unworthy physitian 25 A Jesuit reprobated. 26 A cowardly Cavalier. 27 A bawd of the black guard. 28 A malignant knave a hatcher of plots.</title>
+            <title>Good and the badde. Selections</title>
+            <author>Breton, Nicholas, 1545?-1626?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77333</idno>
+            <idno type="STC">Wing B4384</idno>
+            <idno type="STC">Thomason E55_18</idno>
+            <idno type="STC">ESTC R2558</idno>
+            <idno type="EEBO-CITATION">99872097</idno>
+            <idno type="PROQUEST">99872097</idno>
+            <idno type="VID">155262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E55[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands selected characters, describing the good and bad worthies of this age. VVhere the best may see their graces, and the worst discerne their basenesse. The particulars be these, 1 A worthy king. 2 An unworthy king. 3 A worthy queen. 4 An unworthy woman. 5 A worthy prince. 6 An unworthy prince. 7 A worthy Privy counsellour. 8. An unworthy Privy counsellour. 9 A worthy noble-man. 10 An unworthy noble-man. 11 A worthy bishop or minister. 12 An unworthy bishop or minister. 13 A worthy judge. 14 An unworthy judge. 15 A worthy knight &amp; souldier. 16 An unworthy knight &amp; souldier. 17 A worthy gentleman. 18 An unworthy gentleman. 19 A worthy lawyer. 20 An unworthy lawyer. 21 A worthy souldier. 22 An untrained souldier. 23 A worthy physitian. 24 An unworthy physitian 25 A Jesuit reprobated. 26 A cowardly Cavalier. 27 A bawd of the black guard. 28 A malignant knave a hatcher of plots.</title>
+                  <title>Good and the badde. Selections</title>
+                  <author>Breton, Nicholas, 1545?-1626?</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Selections from: Breton, Nicholas.  The good and the badde, 1616.</note>
+                  <note>"To the reader" signed: B.N. [i.e. Nicholas Breton].</note>
+                  <note>Variant title has: 11 A worthy bishop. 12 An unworthy bishop.</note>
+                  <note>Annotation on Thomason copy: "June 23".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Characters and characteristics --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155262:1" rendition="simple:additions"/>
+            <p>ENGLANDS SELECTED CHARACTERS, Deſcribing the good and bad Worthies of this Age. VVhere the beſt may ſee their graces, and the worſt diſcerne their baſeneſſe.</p>
+            <p>The Particulars be theſe,
+<list>
+                  <item>1 <hi>A worthy King.</hi>
+                  </item>
+                  <item>2 <hi>An unworthy King.</hi>
+                  </item>
+                  <item>3 <hi>A worthy Queen.</hi>
+                  </item>
+                  <item>4 <hi>An unworthy woman.</hi>
+                  </item>
+                  <item>5 <hi>A worthy Prince.</hi>
+                  </item>
+                  <item>6 <hi>An unworthy Prince.</hi>
+                  </item>
+                  <item>7 <hi>A worthy Privy Counſellour.</hi>
+                  </item>
+                  <item>8. <hi>An unworthy Privy Counſellour.</hi>
+                  </item>
+                  <item>9 <hi>A worthy Noble-man.</hi>
+                  </item>
+                  <item>10 <hi>An unworthy Noble-man.</hi>
+                  </item>
+                  <item>11 <hi>A worthy Biſhop or Miniſter.</hi>
+                  </item>
+                  <item>12 <hi>An unworthy Biſhop or Min<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſter.</hi>
+                  </item>
+                  <item>13 <hi>A worthy Judge.</hi>
+                  </item>
+                  <item>14 <hi>An unworthy Judge.</hi>
+                  </item>
+                  <item>15 <hi>A worthy Knight &amp; Souldier.</hi>
+                  </item>
+                  <item>16 <hi>An unworthy Knight &amp; Souldier.</hi>
+                  </item>
+                  <item>17 <hi>A worthy Gentleman.</hi>
+                  </item>
+                  <item>18 <hi>An unworthy Gentleman.</hi>
+                  </item>
+                  <item>19 <hi>A worthy Lawyer.</hi>
+                  </item>
+                  <item>20 <hi>An unworthy Lawyer.</hi>
+                  </item>
+                  <item>21 <hi>A worthy Souldier.</hi>
+                  </item>
+                  <item>22 <hi>An untrained Souldier.</hi>
+                  </item>
+                  <item>23 <hi>A worthy Phyſitian.</hi>
+                  </item>
+                  <item>24 <hi>An unworthy Phyſitian</hi>
+                  </item>
+                  <item>25 <hi>A Jeſuit reprobated.</hi>
+                  </item>
+                  <item>26 <hi>A cowardly Cavalier.</hi>
+                  </item>
+                  <item>27 <hi>A Bawd of the black Guard.</hi>
+                  </item>
+                  <item>28 <hi>A malignant knave a hatcher of plots.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>LONDON, Printed for <hi>T. S.</hi> 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:155262:2"/>
+            <head>To the Reader.</head>
+            <p>I Am ſure that if you read through this Booke, you will finde your de<g ref="char:EOLhyphen"/>ſcription in one place or other: If among the Worthies, hold you where you are, and change not your card for a worſe: If among the other, mend that is amiſſe, and all will be well: I name you not, for I know you not: but I will wiſh the beſt, becauſe the worſt is too bad. I hope there is no body will be angry, except it be with himſelfe, for ſomewhat he findes out of order: if it be ſo, the hope is the greater, the bad will be no worſe: yet the world be<g ref="char:EOLhyphen"/>ing at ſuch a paſſe, that living Creatures are ſcarcely known from Pictures till they move, nor Wiſe men from Fooles till they ſpeake, nor Artiſts from Bunglers till they worke: I will only wiſh the Worthies their worth, and the contrary what may mend their condition: and for my ſelfe but pardon for my preſumption in writing upon the natures of more worth then I am worthy to write of. So leaving my Booke to your beſt liking, with my better Labours to the like effect, in hope to find you among the Worthies, I reſt</p>
+            <closer>
+               <signed>At your command, if worthy <hi>B.N.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="part">
+               <pb n="1" facs="tcp:155262:2"/>
+               <head>1. <hi>A worthy King</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>S a figure of God in the nature of government, he is the chiefe of man, and the Churches Champion, Natures Honour, and Earths Majeſty, is the dire<g ref="char:EOLhyphen"/>ctour of Law, and the ſtrength of the ſame, the Sword of Juſtice, and the Scepter of Mercy, the glaſſe of Grace, and the eye of Honour, the terrour of Treaſon, and the life of loyalty; his Command, if right, is gene<g ref="char:EOLhyphen"/>rall, and his power abſolute, his frowne a death, and his favour a life, his charge is his Subjects, his care their ſafety, his pleaſure their peace, and his joy their love, he is not to be paralleld, becauſe he is without equality, and the prerogative of his Crowne, may not in juſt wayes be contradicted; he is the Lords anointed, and therefore muſt not be touched, and the head of the publicke Body, and there<g ref="char:EOLhyphen"/>fore muſt be preſerved; he is the ſcourge of ſinne, and a bleſſing of grace, Gods Vicegerent over his People, and under him ſupreme Governour; his ſafety muſt be his Councells care, his health his Sub<g ref="char:EOLhyphen"/>jects prayer; his pleaſure his Peers comfort, and his content his Kingdomes gladneſſe; his preſence muſt be reverenced, his paſſion attended, his Court adorned, and his State maintained, his boſome muſt not be ſearched, his will (in write) not diſobeyed, his wants not unſupplied, nor his place unregarded: in ſumme, he is more then a man, though not a God, and next unto God to be honoured above man.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. <hi>An unworthy King</hi>
+               </head>
+               <p>IS the uſurper of Power, where tyranny in Authority loſeth the glo<g ref="char:EOLhyphen"/>ry of Majeſty, while the feare of terrour frighteth love from o<g ref="char:EOLhyphen"/>bedience, for when the Lion playes with the Wolfe, the Lambe dies with the Ewe; he is the meſſenger of wrath to be the ſcourge of ſin or the triall of patience in the hearts of the Religious; he is a war<g ref="char:EOLhyphen"/>rant of woe in the execution of his fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and in his beſt temper a
+<pb n="2" facs="tcp:155262:3"/>doubt of grace; he is a diſpeopler of his Kingdome, and a prey to his enemies, an undelightfull friend, and a tormenter of himſelfe; hee knowes no God, but makes an I doll of Nature, and uſeth reaſon but to ruine of ſenſe; his care is but his will, his pleaſure but his eaſe, his exerciſe but ſinne, ſhame and bloud, and his delight but unhu<g ref="char:EOLhyphen"/>mane; his heaven is his pleaſure, and his gold his god; his preſence is terrible; his countenance horrible; his words unconſtant, uncom<g ref="char:EOLhyphen"/>fortable and uncertaine, and his actions intollerable: in ſumme, hee is the foile of a Crowne, the diſgrace of a Court, the trouble of Councell, and the plague of a Kingdome.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. <hi>A worthy Queen</hi>
+               </head>
+               <p>IS the figure of a King, who under God in his grace hath a great po<g ref="char:EOLhyphen"/>wer over his people: ſhe is the chiefe of women, the beauty of her Court, and the grace of her ſex in the royalty of her Spirit: ſhe is like the Moone that giveth light among the Stars, and but unto the Sunne, gives none place in her brightneſſe: She is the pure Diamond on the Kings fi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ger, and the Orient Pearle unprizable in his eye, the joy of the Court in the comfort of the King, and the wealth of the Kingdome in the fruit of her love: She is Reaſons honour in Natures grace, and the Wiſdomes love in vertues beauty: in ſumme, She is the hand-maid of God, and the Kings ſecond ſelfe, and in his Grace the beauty of a Kingdome.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4. <hi>An unworthy Queen or woman</hi>
+               </head>
+               <p>IS the miſery of man, whoſe demeanure is not to be deſcribed; but in extremities her voice is like the ſc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ching of an Owle, her eye the poyſon of a Cockatrice, her hand the claw of a Crocodile, and her heart a Cabinet of horrour: ſhe is the griefe of Nature, the wound of Wit, the trouble of Reaſon, and the abuſe of Time: her pride is unſupportable, her an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er unquenchable: ſhe feares no co<g ref="char:EOLhyphen"/>lours, ſhe cares for no counſell, nor advice, but ſuch as is Jeſuiticall, derived from that curſed black mouth Whore of Rome, from whence proceeds nothing but bloud, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apine, miſchiefe, and all manner of mi<g ref="char:EOLhyphen"/>ſeries, ſparing no perſon, age of ſex which walkes not in her way: and in this ſhe is vigilant at all times, not caring at what ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te ſhe
+<pb n="3" facs="tcp:155262:3"/>purchaſeth it, (be it Kingdomes, jewels, yet what note) her command is muſt, her reaſon will, her reſolution ſhall, and her ſatisfaction ſo, ſhe looks at no Lawes, and thinkes of no Lord; admits no command, and keeps no good order: ſhe is a croſſe, but not of Chriſt, and a word, but not of Grace; a creature, but not of Wiſdome; and a ſer<g ref="char:EOLhyphen"/>vant but not of God: in ſumme, ſhe is the ſeed of trouble, the fruit of travell, the taſte of bitterneſſe, and the digeſtion of death.</p>
+            </div>
+            <div n="5" type="part">
+               <head>5. <hi>A worthy Prince</hi>
+               </head>
+               <p>IS the hope of a Kingdome, the richeſt Jewell in a Kings Crowne, and the faireſt flower in the Queens Garden: he is the joy of Na<g ref="char:EOLhyphen"/>ture in the hope of honour, and the love of wiſdome, in the life of worthineſſe in the ſecret carriage of his hearts intentions, till his de<g ref="char:EOLhyphen"/>ſignes come to action, he is a dumbe ſhew to the worlds imaginati<g ref="char:EOLhyphen"/>on; in his wiſdome he ſtartles the ſpirits of expectation in his va<g ref="char:EOLhyphen"/>lour, he ſubjects the hearts of ambition in his vertue, he wins the love of the nobleſt, and in his bounty bindes the moſt ſufficient: he is the chryſtall glaſſe where Nature may ſee her comfort, and the book of Reaſon where Vertue may read her honour: he is the morning Starre that hath light from the Sunne, and the bleſſed fruit of the tree of earths Paradiſe: he is the ſtudy of the wiſe in the ſtate of honour, and in the ſubject of learning, the hiſtory of admiration: in ſumme, he is in the note of wiſdome, the aime of honour, and in the honour of vertue, the hope of a Kingdome.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6. <hi>An unworthy Prince</hi>
+               </head>
+               <p>IS the feare of a Kingdome, when will and power carry pride in the impatience in the cloſe carriage of ambitious intentions; he is like a featfull dreame to a troubled ſpirit: in his paſſionate humours hee frighteth the hearts of the prudent; in the delight of vanity, he loſeth the love of the wiſe, and in the miſery of avarice, is ſerved only with the needy: he is like a little miſt before the riſing of the Sunne, which the more it growes, the leſſe good it doth: he is the Kings griefe, and the Queens ſorrow, the Courts trouble, and the Kingdomes curſe: in ſumme, he is the ſeed of unhappineſſe, the fruit of ungodlineſſe, the taſte of bitterneſſe, and the digeſtion of heavineſſe.</p>
+            </div>
+            <div n="7" type="part">
+               <pb n="4" facs="tcp:155262:4"/>
+               <head>7. <hi>A worthy Privy Councellor</hi>
+               </head>
+               <p>IS the pillar of a Realme, in whoſe wiſedome and care, next under God and the King, ſtands the ſafety of the Kingdome: hee is the watch-tower to give warning of the enemy, and a hand of provi<g ref="char:EOLhyphen"/>ſion for the preſervation of the State: hee is an oracle in the Kings eare, and a ſword in the Kings hand; an even waight in the bal<g ref="char:EOLhyphen"/>lance of juſtice, and a light of grace in the love of truth: hee is an eye of care in the courſe of Law; a heart of love in his ſervice of his Sovereigne; a minde of honour in the order of his ſervice, and a braine of invention for the good of the common-wealth: his place is powerfull, while his ſervice is faithfull, and his honour due in the deepeſt of his imployments. In ſumme, he is a fixed planet among the ſtarres of the firmament, which through the clouds in the ayre, ſhewes the nature of his light.</p>
+            </div>
+            <div n="8" type="part">
+               <head>8. <hi>An unworthy Privy Councellor</hi>
+               </head>
+               <p>IS the hurt of a King, and the danger of the State, when the weak<g ref="char:EOLhyphen"/>neſſe of judgement may commit an errour, or the lacke of care may give way to unhappineſſe; he is a wicked charme in the Kings eare, a ſword of terror in the advice of tyranny: his power is perilous in the partiality of will, and his heart full of hol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owneſſe in the proteſtation of love: hypocriſie is the cover of his counterfeit religion, and trai<g ref="char:EOLhyphen"/>terous invention is the agent of his ambition: he is the cloud of darkeneſſe that threateneth foule weather, and if it grow to a ſtorme, (as now it is) it is fearfull where it falls: he is an enemy to God in the hate of Grace, &amp; thrice worthy of death in diſloyalty to his Sove<g ref="char:EOLhyphen"/>vereigne or Common-wealth: in ſumme he is an unfit perſon for the place of a Common-wealth, and an unworthy ſubject to look a King in the face, fit only for an outcaſt to be gazed at, or to be preferred a<g ref="char:EOLhyphen"/>loft, as <hi>Haman</hi> was.</p>
+            </div>
+            <div n="9" type="part">
+               <head>9. <hi>A worthy Noble-mans</hi>
+               </head>
+               <p>IS a marke of honour, where the eye of wiſdome in the obſervation of deſert ſees the fruit of Grace, he is the Orient Pe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e that reaſon
+<pb n="5" facs="tcp:155262:4"/>polliſheth for the beauty of Nature, and the Diamond ſparke where divine graces give vertue honour; he is the note booke of morall diſcipline, where the conceit of care may finde the true Courtier; he is the nurſe of hoſpitality, the reliefe of neceſſity, the love of charity, and the life of bounty; he is Learnings grace, and Valours fame, Wiſdomes fruit, and kindneſſe love; he is the true Faulcon that feeds on no carrion, the true Horſe that will be no hackney, the true Dolphin that feares not the Whale; and the true man of God that feares not the Divell. In ſumme, Hee is the Darling of Nature in Reaſons Philoſophy: the Loadſtone of Light in Loves Aſtronomy: the raviſhing ſweet in the muſicke of Honour, and the golden num<g ref="char:EOLhyphen"/>ber in Graces Arithmeticke.</p>
+            </div>
+            <div n="10" type="part">
+               <head>10 <hi>An unworthy Nobleman</hi>
+               </head>
+               <p>IS the griefe of Reaſon, when the title of Honour is put upon the ſubject of diſgrace; when either the imperfection of wit, or the folly of will, ſhewes the unfitneſſe in nature, for the vertue of ad<g ref="char:EOLhyphen"/>vancement: he is the eye of baſeneſſe, and ſpirit of groſſenes, and in the demeane of rudeneſſe, the ſcorne of noblenes: he is the ſuſpiti<g ref="char:EOLhyphen"/>on of a right generation in the nature of his diſpoſition, and a miſe<g ref="char:EOLhyphen"/>rable plague to a feminine patience: Wiſedome knowes him not, Learning bred him not: vertue loves him not, and honour fits him not: prodigality or avarice are the notes of his inclination, and folly or miſchiefe are the fruits of his invention. In ſumme, he is the ſhame of his name, the diſgrace of place, the blot of his title, and ruine of his houſe.</p>
+            </div>
+            <div n="11" type="part">
+               <head>11 <hi>A worthy Biſhop or Miniſter</hi>
+               </head>
+               <p>IS an Ambaſſadour from God unto men: in the midſt of warre to make a treaty of peace, who with a pronuntiation of a generall Pardon, upon a generall confeſſion of ſinne upon the fruit of repen<g ref="char:EOLhyphen"/>tance, gives a full aſſurance of comfort: hee brings tidings from hea<g ref="char:EOLhyphen"/>ven, of happines on earth to the world: he is the ſilver trumpet in the muſicke of love, where faith hath a life that never failes the beloved: he is the directour of Life in the Lawes of God, and the true Chyrur<g ref="char:EOLhyphen"/>gion of the ſoule, in lancing the ſores of finne, the terrour of the re<g ref="char:EOLhyphen"/>probate
+<pb n="6" facs="tcp:155262:5"/>in pronouncing their damnation, and the joy of the faithfull in the aſſurance of their ſalvation. In ſumme, he is in the nature of Grace, worthy of honour, and in the meſſage of life worthy of love; a continuall agent betwixt God and man, in the preaching of his word, and prayer for his people.</p>
+            </div>
+            <div n="12" type="part">
+               <head>12 <hi>An unworthy Biſhop or Miniſter</hi>
+               </head>
+               <p>IS the diſgrace of Learning, when the want of reading, or the abuſe of underſtanding in the ſpeech of error may beget idolatry: hee is Gods enemy in the hurt of his people, and his owne woe in the abuſe of the word of God. Hee is the ſhadow of a candle that gives no light; or, if he be any, it is but to lead into darkenes: the ſheepe are u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>happy that live in his fold, when they ſhall eyther ſtarve or feede on the g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound: he breeds this war in the wits of his audience, when his life is contrary to the nature of his inſtructions: hee lives in a (Rome,) where he troubles a world, and in the ſhadow of a Saint, is lit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le better th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a Divell; he makes Religion a cloake of ſinne, and wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a counterfet humility, covereth incomparable pride: he robs the rich to releeve the poore, and makes fooles of the wiſe with the imagination of his wrath: hee is all for the world, but nothing for God; and for the eaſe of nature loſeth the ſap of reaſon. In ſumme, he is the picture of hypocriſie, the ſpirit of hereſie; a wound in the Church, and a woe to the World.</p>
+            </div>
+            <div n="13" type="part">
+               <head>13 <hi>A worthy Judge</hi>
+               </head>
+               <p>IS a doome, whoſe breath is mortall upon the breach of Law, where criminall offences muſt be cutoff from a common wealth: he is the ſword of Juſtice in the hand of a King, and the eye of wiſedome in the walke of a kingdome: his ſtudy is a ſquare for the keeping of proportion betwixt command and obedience, that the King may keepe his crowne on h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s head, and the Subjects his head on his ſhoul<g ref="char:EOLhyphen"/>ders: he is ſeared but of the fooliſh, and curſed but of the wicked; but of the wiſe honoured, and of the gracious beloved: hee is a ſur<g ref="char:EOLhyphen"/>vey or of rights, and revenger of wrongs, and in the judgement of truth, the honour of Juſtice. In ſumme, his word is Law, his power Grace, his labour Peace, and his deſert Honour.</p>
+            </div>
+            <div n="14" type="part">
+               <pb n="7" facs="tcp:155262:5"/>
+               <head>14 <hi>An unworthy Judge</hi>
+               </head>
+               <p>IS the griefe of juſtice in the errour of judgement, when through ignorance or will, the death of innocency lies upon the breath of opinion: he is the diſgrace of Law in the deſert of knowledge, and the plague of power in the miſery o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> oppreſſion; as by wofull expe<g ref="char:EOLhyphen"/>rience theſe times of ours now tell us: he is more morall then divine, in the nature of policy, and more judicious then juſt in the cariage of his conceit: his charity is cold; when partiality is reſolved, when the doome of life lies on the verdict of a Jury: with a ſterne looke he frighteth an offender: he gives little comfort to a poore mans cauſe; the golden waight over-weighes his grace; when the Angels play the Divels in the hearts of his people, and the credit of his damna<g ref="char:EOLhyphen"/>ble bribes muſt not be queſtioned. In ſumme, where Chriſt is prea<g ref="char:EOLhyphen"/>ched, he hath no place in the Church: and in this Kingdome, out of doubt, God will now viſit them, not ſuffering any ſuch Divell to beare ſway any longer.</p>
+            </div>
+            <div n="15" type="part">
+               <head>15 <hi>A worthy Knight and Souldier</hi>
+               </head>
+               <p>IS a ſpirit of proofe, in the advancement of vertue, by the deſert of honour, in the eye of Majeſty: In the field he gives courage to his Souldiers, in the Court grace to his Followers, in the City reputation to his perſon, and in the countrey honor to his houſe. His ſword and his horſe make his way to his houſe, and his armor of proofe is an un<g ref="char:EOLhyphen"/>danted ſpirit: the muſicke of his delight is the trumpet and drumme, and the paradiſe of his eye is an army defeated, the reliefe of the op<g ref="char:EOLhyphen"/>preſſed makes his conqueſt honourable, and the pardon of the ſub<g ref="char:EOLhyphen"/>miſſive makes him famous in mercy: he is in nature milde, and in ſpi<g ref="char:EOLhyphen"/>rit ſtout, in reaſon judicious, and in all, honourable. In ſumme, he is a Yeomans commander, a Gentlemans ſuperior, a Noblemans com<g ref="char:EOLhyphen"/>panion, and a Prince and Kingdomes worthy favourite.</p>
+            </div>
+            <div n="16" type="part">
+               <head>16 <hi>An unworthy Knight and Souldier</hi>
+               </head>
+               <p>IS the defect of nature in the title of honour, when to maintaine va<g ref="char:EOLhyphen"/>lour, his ſpurres have no towels, nor his ſword a point: his appa<g ref="char:EOLhyphen"/>rell
+<pb n="8" facs="tcp:155262:6"/>is of proofe, that may weare like his armour, or like an old En<g ref="char:EOLhyphen"/>ſigne that hath his honour in ragges. It may bee hee is the Taylors trouble in fitting an ill ſhape, or a mercers wonder in wearing of ſilke: in the Court he ſtands for a cypher, and among Ladies like an Owle among birds: he is worſhipt onely for his wealth, and if he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e valued by his wit, when if his pride goe beyond his purſe, his ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le will be a trouble to him. In ſumme, he is the childe of Folly, and the man of Gotham, the blind man of Pride, and the foole of magina<g ref="char:EOLhyphen"/>tion: but in the Court and Kingdome of Honour, are no ſuch Apes, and I hope this Kingdome will breed no ſuch Aſſes.</p>
+            </div>
+            <div n="17" type="part">
+               <head>17 <hi>A worthy Gentleman</hi>
+               </head>
+               <p>IS a branch of the tree of honour, whoſe fruits are the actions of ver<g ref="char:EOLhyphen"/>tue, as pleaſing to the eye of judgement, as taſtefull to the ſpirit of Underſtanding: whatſoever he doth, it is not forced, except it be e<g ref="char:EOLhyphen"/>vill, which eyther through ignorance unwittingly, or through com<g ref="char:EOLhyphen"/>pulſion unwillingly he fals upon; hee in nature kinde, in demeanour courteous, in allegiance loyall, and in Religion zealous, in ſervice faithfull, and in reward bountifull: he is made of no baggage ſtuffe, nor for the wearing of baſe people; but is woven by the ſpirit of wiſedome, to adorn the court of Honour. His apparell is more come<g ref="char:EOLhyphen"/>ly then coſtly, and his diet more wholeſome then exceſſive, his exer<g ref="char:EOLhyphen"/>ciſe more healthfull then painefull, and his ſtudy more for knowledge then pride: his love not wanton nor common, his gifts not niggard<g ref="char:EOLhyphen"/>ly nor prodigall, and his carriage neither apiſh nor ſullen. In ſumme, he is an approver of his pedigree, by the nobleneſſe of his paſſage, and in the courſe of his life an example to his poſterity.</p>
+            </div>
+            <div n="18" type="part">
+               <head>18 <hi>An unworthy Gentleman</hi>
+               </head>
+               <p>IS the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>offe of wit and the ſcorne of honour, where more wealth then wit is worſhips of ſimplicity, who ſpends more in idlenes, then would maintaine thrift, or hides more in miſery then might pur<g ref="char:EOLhyphen"/>chaſe honour: whoſe delights are vanities, and whoſe pleaſures fop<g ref="char:EOLhyphen"/>peries: whoſe ſtudies fables, and whoſe exerciſe worſe then follies: his converfation is baſe, and his conference ridiculous; his affecti<g ref="char:EOLhyphen"/>ons ungracious, and his actions ignominious. His apparell out of
+<pb n="9" facs="tcp:155262:6"/>faſhion, and his diet out of order; his cariage out of ſquare, and his company out of requeſt. In ſumme, hee is like a mungrell dogge with a velvet collar, a cart-horſe with a golden ſaddle, a buzzard kite with a Fawlcons bels, or a Baboone with a pide jerkin.</p>
+            </div>
+            <div n="19" type="part">
+               <head>19 A <hi>worthy Lawyer</hi>
+               </head>
+               <p>IS the Student of knowledge, how to bring controverſies into a concluſion of peace, and out of ignorance to underſtanding: he divides time into uſes, and Caſes into inſtructions: he laies open ob<g ref="char:EOLhyphen"/>ſcurities, and is praiſed for the ſpeech of truth: and in the Court of conſcience pleads much in <hi>Forma pauperis,</hi> for ſmall fees: hee is a meane for the preſervation of titles, and the holding of poſſeſſions, and a great inſtrument of peace in the judgement of impartiality: he is the clients hope in his caſes pleading, and his hearts comfort in a happy iſſue: he is the finder out of trickes in the craft of ill conſci<g ref="char:EOLhyphen"/>ence, and the joy of the diſtreſſed in the releefe of Juſtice. In ſumme, he is a maker of peace among the ſpirits of contention, and a conti<g ref="char:EOLhyphen"/>nuer of quiet in the execution of the Law.</p>
+            </div>
+            <div n="20" type="part">
+               <head>20 <hi>An unworthy Lawyer</hi>
+               </head>
+               <p>ANd unworthily called a Lawyer, is the figure of a Foot-poſt, who carries Letters, but knowes not what is in them, only can reade the ſuperſcriptions, to direct them to their right owners. So trudgeth this ſimple Clarke, that can ſcarce read a Caſe when it is written, with his hand-full of papers, from one Court to another, and from one Counſellours chamber to another, when by his good payment for his paines, he will be ſo ſawcy, as to call himſelfe a Sollicitour: But what a taking are poore Clients in, when this too much truſted cunning companion, better read in <hi>Pierce Plowman,</hi> then in <hi>Ploydon,</hi> and in the Play of <hi>Richard</hi> the Third, then in the Pleas of <hi>Edward</hi> the Fourth, perſwades them all is ſure, when hee is ſure of all? And in what a miſery are the poore men, when upon a <hi>Nihil dicit,</hi> becauſe indeed this poore fellow, <hi>Nihil poteſt dicere,</hi> they are in danger of an execution, before they know wherefore they are coudemned? But I wiſh all ſuch more wicked then witty, unlearned in the Law and abuſers of the ſame, to looke a little better into their conſciences,
+<pb n="10" facs="tcp:155262:7"/>and to leave their crafty courſes, leſt when the Law indeed laies them open, inſtead of carrying papers in their hands, they weare not papers on their heads, and inſtead of giving eare to their Clients cauſes, or rather eyes into their purſes, they have never an ear left to heare withall, nor good eye to ſee withall; or at leaſt honeſt face to looke out withall: but as the Graſhoppers of Egypt, be counted the Caterpillers of England, and not the Foxe that ſtole the Gooſe, but the great Foxe that ſtole the Farme from the Gander.</p>
+            </div>
+            <div n="28" type="part">
+               <head>28. <hi>A worthy Souldier</hi>
+               </head>
+               <p>IS the child of Valour, who was borne for the ſervice of neceſſity, and to beare the Enſigne of Honour, in the actions of Worth: he is the Dyer of the Earth with blood, and the ruine of the erections of Pride: he is the watch of Wit, in the advantage of Time, &amp; the execu<g ref="char:EOLhyphen"/>tioner of wrath upon the wilfull offender: he diſputes queſtions with the point of a Sword, and prefers Death to indignities; he is a Lion to Ambition, and a Lambe to Submiſſion: he hath Hope faſt by the hand, and treads upon the head of Feare. He is the Kings Champi<g ref="char:EOLhyphen"/>on, and the Kingdomes Guard, Peaces preſerver, and Rebellions ter<g ref="char:EOLhyphen"/>rour: he makes the Horſe trample at the ſound of a Trumpet, and leads on to a battell, as if he were going to a breakfaſt; he knowes not the nature of Cowardiſe, for his reſt is ſet upon Reſolution: his ſtrongeſt fortification is his Minde, which beats off the aſſault of idle humors, and his life is the paſſage of danger, where an undaunted Spirit ſtoops to no Fortune; with his armes he wins his Armes, and by his deſert in the field, his Honour in the Court. In ſumme, in the trueſt Man-hood he is the true man: and in the creation of Honour, a moſt worthy Creature.</p>
+            </div>
+            <div n="22" type="part">
+               <head>22 <hi>An untrained Souldier</hi>
+               </head>
+               <p>IS like a young hound, that when the firſt falls to hunt, he knowes not how to lay his noſe to the earth: Who having his name but in a booke, and marched twice about a Market place, when he comes to a peece of ſervice, knowes not how to beſtow himſelfe: he mar<g ref="char:EOLhyphen"/>ches as if he were at plough, carries his Pike like a Pikeſtaffe, and his ſword before him, for feare of loſing from his ſide: if he be a
+<pb n="11" facs="tcp:155262:7"/>Shot, he will be rather ready to ſay a Grace over his Peece, and ſo to diſcharge his hands of it, then to learne how to diſcharge it with a grace: he puts on his Armour over his ears, like a waſtecoat, and weares his Murrian like a night-cap; when he is quartered in the field he looks for his bed, and when he ſees his Provant, he is ready to cry for his victualls; and ere he know well where he is, wiſh heartily he were at home againe, with hanging downe his head, as if his heart were in his hoſe: ſleep till a Drum or a deadly bullet awake him, &amp; ſo carry himſelf in all Companies, that till Martiall Diſcipline have ſeaſoned his underſtanding, he is like a Cipher among figures, an Owle among birds, a Wiſe man among fooles, and a ſhadow a<g ref="char:EOLhyphen"/>mong men.</p>
+            </div>
+            <div n="23" type="part">
+               <head>23 <hi>A worthy Phyſitian</hi>
+               </head>
+               <p>IS the enemy of ſickneſſe, in purging nature from corruption: his action is moſt in feeling of pulſes, and his diſcourſes chiefly of the natures of diſeaſes: he is a great ſearcher out of ſimples, and accor<g ref="char:EOLhyphen"/>dingly makes his compoſition: he perſwades abſtinence, and pati<g ref="char:EOLhyphen"/>ence for the benefit of health, while purging and bleeding are the chiefe courſes of his counſell: the Apothecary and the Chyrurgeon are his two chiefe attendants, with whom conferring upon Time, growes temperate in his cures: ſurfets and wantonneſſe are great a<g ref="char:EOLhyphen"/>gents for his imployment, when by the ſecret of his skill, out of others weakneſſe he gathers his owne ſtrength. In ſumme, he is a ne<g ref="char:EOLhyphen"/>ceſſary member, for an unneceſſary malady, to finde a diſeaſe, and to cure the diſeaſed.</p>
+            </div>
+            <div n="24" type="part">
+               <head>24 <hi>An unworthy Phyſitian.</hi>
+               </head>
+               <p>IS a kinde of a Horſe-leech, whoſe cure is moſt in drawing of bloud, and a deſperate purge either to cure or kill, as it hits: his diſcourſe is moſt of cures that he hath done, and them afar off, and not a receit under an hundred pounds, though it be not worth three<g ref="char:EOLhyphen"/>halfpence; upon the Market day he is much haunted with urinals, where if he finde any thing (though he know nothing) yet he will ſay ſomewhat, which if it hit to ſome purpoſe, with a few fuſtian words, he will ſeem a peece of ſtrange ſtuffe: he is never without old merry taies, and ſtale jeſts to make old folkes laugh, and comfits or plums in his pocket to pleaſe little children; yea, and he will bee
+<pb n="12" facs="tcp:155262:8"/>talking of complexions, though he know nothing of their diſpoſi<g ref="char:EOLhyphen"/>tions, and if his medicine do a feat, he is a made man among fooles: but being wholly unlearned, and ofttimes unhoneſt, let me thus briefly deſcribe him: He is a plaine kinde of Mountebanke, and a true Quackſalver, a danger for the ſicke to deale withall, and a di<g ref="char:EOLhyphen"/>zard in the world to walk withall.</p>
+            </div>
+            <div n="25" type="part">
+               <head>25 <hi>A Jeſuit reprobated</hi>
+               </head>
+               <p>IS the childe of ſin, who being borne for the ſervice of the Divell, cares not what villany he does in the world; he is alwaies in a maze, for his courſes are ever out of order, and while his will ſtands for his wiſdome, the beſt that falls out of him, is a foole; he betraies the truſt of the ſimple, and ſucks out the bloud of the innocent; his breath is the fume of blaſphemy, and his tongue the firebrand of hell; his deſires are the deſtruction of the vertuous, and his delights are the traps to damnation: he bathes in the bloud of murther, and ſups up the broth of iniquity: plots, conſpiracies, and all manner of miſ<g ref="char:EOLhyphen"/>chiefe, are the chiefeſt aime of his ſtudies: he frighteth the eies of the godly, and diſturbeth the hearts of the religious; he marreth the wits of the wiſe, and is hatefull to the ſoules of the gracious. In ſumme, he is an inhumane creature, a fearfull companion, a man<g ref="char:EOLhyphen"/>monſter, and a Divell incarnate; therefore to be quite packed out of this our England, to his owne proper center the whore of Rome.</p>
+            </div>
+            <div n="26" type="part">
+               <head>26 <hi>A cowardly Cavalier</hi>
+               </head>
+               <p>IS the childe of feare, he was begotten in cold blood, when Nature had much adoe to make up a creature like a man: his life is a kinde of ſickneſſe, which breeds a kinde of palſie in the joynts, and his death the terrour of his conſcience, with the extream weakneſſe of his faith; he would have peace, in regard he fears a ſword in his ſoul, hating to meet a man, or to incounter an enemy or oppoſite in the field, witneſſe our preſent troubles, when like the Egyptians plagues they feſter, and are the diſquiet of this our land, robbing, pillaging and ſpoyling poore Countrymen and carriers, who cannot give any reſiſtance (one eyd <hi>Haſting</hi>-like:) if he cut his finger, he looketh pre<g ref="char:EOLhyphen"/>ſently for the ſigne, and if his head ake, he is ready to make his will,
+<pb n="13" facs="tcp:155262:8"/>a report of a Gauon ſtrikes him ſlat on his face, and a clap of thunder makes him a ſtrange metamorphoſis: rather then he will fight, he will be beaten, and if his legs will helpe him he will put his armes to no trouble, but trie the ſtrength with the levity of his flight, while he is as he conceives beyond the reach of his arrivall, where like a moule he is ready to run his head into any hole to hide him, ſearing the very ſent of a man; he makes love commonly with his purſe, and brags moſt of his maiden-head; he will not marry but into a qui<g ref="char:EOLhyphen"/>et family, and not too faire a wife to avoid quarrells; if his wife frowne upon him, he ſighs, and if ſhe give him an unkinde word, he weeps: he loves not the borne of a Bull, nor the pawes of a Bear; if he chance to be rich, he is afraid of theeves; if he be poore, he will be ſlave to a beggar. In ſumme, he is the ſhame of man-hood, the diſgrace of Nature, the ſcorne of Reaſon, and the hate of Honour.</p>
+            </div>
+            <div n="27" type="part">
+               <head>27 <hi>A Bawd of the blacke Guard</hi>
+               </head>
+               <p>IS a kind of woman-beaſt, who having loſt the honour of her vir<g ref="char:EOLhyphen"/>ginity in her youth, meanes to goe to hell in her age: ſhe is dange<g ref="char:EOLhyphen"/>rous among yong people, for feare of the infection of the falling ſick<g ref="char:EOLhyphen"/>nes: and not to teach children to ſpell, leſt ſhe learne them too ſoon to put together: ſhe is partly a Chyrurgion, but moſt for the allaying of ſwelling in the lower parts, and hath commonly a charme to con<g ref="char:EOLhyphen"/>jure the Divell into hell. She greeves at nothing ſo much, then at diſability to ſin, and is never ſo merry, as when ſhe is perſwaded to be yong: ſhe feares nothing more then the Cart, and cares for no<g ref="char:EOLhyphen"/>thing but eaſe, and loves a cup of ſacke, and a pot of ale, almoſt as well as the hope of her ſalvation. Shee is much troubled with ſore eyes and ill teeth, with ſitting up late, and feeding upon ſweet things. She is well verſt in the black Art, to accommodate them of the black Guard: a weeſel-look't goſlip ſhe is in all places, where her mirth is a bawdy tale; and a matrone in an Hoſpitall to ſee yong Wenches well ſet to worke. In ſumme, ſhe is the loathſomneſſe of nature, the hate of vertue, the ſpoile of wealth, and the ruine of maiden-heads.</p>
+            </div>
+            <div n="28" type="part">
+               <head>28 <hi>A malignant knave a hatcher of plots</hi>
+               </head>
+               <p>IS the ſcumme of wit, and the ſcorne of reaſon, the hate of wiſdome, and the diſhonour of humanity: he is the danger of ſociety, and the
+<pb n="14" facs="tcp:155262:9"/>hurt of amity, the infection of youth, and the corruption of age: hee is a traytor to affiance, and an abuſe to imployment, and a rule of vil<g ref="char:EOLhyphen"/>lany in a plot of miſchiefe: he hath a Cats eye, and a Beares paw, a Syrens tongue, and a Serpents ſting: his words are lies, his oathes, perjuries, ſtudies, ſubtilties, and his practices villanies: his wealth is his wit, his honour is his wealth: his glory is his gaine, and his God is his gold: he is no mans friend, and his owne enemy; curſed on earth, and baniſhed from heaven: he was begotten ungraciouſly, borne untimely, lives diſhoneſtly, and dies in a halter, or worſe, ſhamefully. His heart is a puddle of poyſon, his tongue a ſting of iniquity, his brayne a diſtiller of deceit, and his conſcience a com<g ref="char:EOLhyphen"/>paſſe of hell. In ſumme, hee is a dog in diſpoſition, therefore not worthy to live among men; a fox in wit, a wolfe in his prey, and a Divel in his pride.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
